@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidCheck</string>
+    <string name="android_info">Android info:</string>
+    <string name="api_level">API Level:</string>
+    <string name="codename">Codename:</string>
+    <string name="device_model">Device model:</string>
+</resources>
